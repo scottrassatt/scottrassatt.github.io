@@ -1,0 +1,20 @@
+@font-face {
+    font-family: SuperSonics_font;
+    src: url(SuperSonics_font.ttf);
+ 
+ }
+ 
+ body {
+    font-family: SuperSonics_font;
+    text-align: center;
+ }
+
+ p {font-size:24px; }
+
+ p {color:green; }
+ 
+ html{
+    background-image: url(‘background.jpeg’);
+ }
+
+ 
